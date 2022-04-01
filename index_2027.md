@@ -1,88 +1,79 @@
 ---
 layout: resume
-title: Brigham Young's Resume
+title: Justin Morley's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+<h1 align="center"> Justin Morley</h1>
 
-<div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-</div>
-
-<!-- https://www.monique.tech/the-art-of-markdown -->
+<h5 align="center"><div id="webaddress">
+<a href="justmorley@byui.edu">justmorley@byui.edu</a>
+| <a href="https://github.com/JustinMorley">Github: JustinMorley</a> | <a href="www.linkedin.com/in/justin-morley-0ab436221">LinkedIn</a>
+</div></h5>
 
 
 ## Education
+---
+`2018- Expected 2023`
+__Brigham Young University-Idaho__, Rexburg, ID
+Bachelor of Science, Data Science 
+- Current 3.8 GPA
+- Received multiple academic scholarships
+- Participant in Data Science Society
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+__Courses Completed__
+- Programming with functions
+- Intro to Programming
+- Data Science Programming
+- Applied Calculus for Data Analysis
+- Business Statistics
+- Intro to Business
+- Intro to Databases
 
-- Full academic scholarship with 4.0 GPA
+`2014-2018`
+__Champlin Park High School__, Champlin, MN
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
-
-
-## Related Experience
-
-### Internships
-
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
+-  3.9 GPA
+- Participated in the National Honors Society
+-  Graduated with Highest Honors
 
 
 
+## Work Experience
+***
+`April 2020 - July 2020`
+__Target Corporation__: Champlin, Minnesota
+_Overnight Stock Associate_
+- Maintained an organized inventory creating easy access for store employees
+- Replenished inventory on sales floor over an 8 hour shift in preparation for sales the next day.
+- Applied physical abilities to move large objects up to 50 pounds around location
+
+
+`June 2018 - September 2018`
+__Centra Homes__: Anoka, Minnesota
+_Construction Worker_
+- Engaged in renovation of an apartment complex in preparation for new tenants over a period of 3 months
+- Demonstrated skills in repairing flooring and dry wall within 20 separate apartments 
+- Applied ability to use power tools to help fix heating systems in 10+ apartments
+- Showed ability to work with 10 other employees to meet company deadlines and goals
+
+## Volunteer Experience
+***
+`June 2019- June 2021`
+__The Church of Jesus Christ of Latter-Day Saints__: Accra, Ghana
+_Full-Time Volunteer Representative_
+-  Demonstrated abilities to work with youth, adults, foreign leaders, and others with diverse backgrounds while teaching selfimprovement in two different countries
+-  Exercised ability to use social media to promote organization's message to local and international audiences on 3 different social media pages
+- Organized and participated in weekly service projects as well as other unplanned service opportunities
+- Lead trainings regularly for groups of up to 9 other volunteers
+- Studied religion daily for a period of 2 years, and showed high level of understanding
+
+## Skills
+***
+- Proficient in Microsoft office
+- High level communication skills
+-  Advanced knowledge and ability in mathematics
+- Proficient in Python, SQL, and R programming languages
+- Experience with data manipulation and visualization
+- Advanced outdoor and survival skills
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
