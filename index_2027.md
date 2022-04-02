@@ -12,15 +12,15 @@ title: Justin Morley's Resume
 
 ## Education
 ---
-`2018- Expected 2023`
-__Brigham Young University-Idaho__, Rexburg, ID
-Bachelor of Science, Data Science 
+`2018- Expected 2023`  
+__Brigham Young University-Idaho__, Rexburg, ID  
+Bachelor of Science, Data Science  
 - Current 3.8 GPA
 - Received multiple academic scholarships
 - Participant in Data Science Society
 
-`2014-2018`
-__Champlin Park High School__, Champlin, MN
+`2014-2018`  
+__Champlin Park High School__, Champlin, MN  
 
 -  3.9 GPA
 - Participated in the National Honors Society
@@ -30,16 +30,16 @@ __Champlin Park High School__, Champlin, MN
 
 ## Work Experience
 ***
-`April 2020 - July 2020`
-__Target Corporation__: Champlin, Minnesota
+`April 2020 - July 2020`  
+__Target Corporation__: Champlin, Minnesota  
 _Overnight Stock Associate_
 - Maintained an organized inventory creating easy access for store employees
 - Replenished inventory on sales floor over an 8 hour shift in preparation for sales the next day.
 - Applied physical abilities to move large objects up to 50 pounds around location
 
 
-`June 2018 - September 2018`
-__Centra Homes__: Anoka, Minnesota
+`June 2018 - September 2018`  
+__Centra Homes__: Anoka, Minnesota  
 _Construction Worker_
 - Engaged in renovation of an apartment complex in preparation for new tenants over a period of 3 months
 - Demonstrated skills in repairing flooring and dry wall within 20 separate apartments 
@@ -48,8 +48,8 @@ _Construction Worker_
 
 ## Volunteer Experience
 ***
-`June 2019- June 2021`
-__The Church of Jesus Christ of Latter-Day Saints__: Accra, Ghana
+`June 2019- June 2021`  
+__The Church of Jesus Christ of Latter-Day Saints__: Accra, Ghana  
 _Full-Time Volunteer Representative_
 -  Demonstrated abilities to work with youth, adults, foreign leaders, and others with diverse backgrounds while teaching selfimprovement in two different countries
 -  Exercised ability to use social media to promote organization's message to local and international audiences on 3 different social media pages
