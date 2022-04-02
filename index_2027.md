@@ -19,15 +19,6 @@ Bachelor of Science, Data Science
 - Received multiple academic scholarships
 - Participant in Data Science Society
 
-__Courses Completed__
-- Programming with functions
-- Intro to Programming
-- Data Science Programming
-- Applied Calculus for Data Analysis
-- Business Statistics
-- Intro to Business
-- Intro to Databases
-
 `2014-2018`
 __Champlin Park High School__, Champlin, MN
 
