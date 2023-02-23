@@ -5,75 +5,58 @@ title: Justin Morley's Resume
 <h1 align="center"> Justin Morley</h1>
 
 <h5 align="center"><div id="webaddress">
-<a href="justmorley@byui.edu">justmorley@byui.edu</a>
-| <a href="https://github.com/JustinMorley">Github: JustinMorley</a> | <a href="www.linkedin.com/in/justin-morley-0ab436221">LinkedIn</a>
+<a href="justmorley99@gmail.com">justmorley99@gmail.com</a>
+| <a href="https://github.com/JustinMorley">Github: JustinMorley</a> | <a href="www.linkedin.com/in/justin-morley1">LinkedIn</a>
 </div></h5>
 
 
 ## Education
 ---
-`2018- Expected 2023`
+`April 2024`
 __Brigham Young University-Idaho__, Rexburg, ID
 Bachelor of Science, Data Science 
-- Current 3.8 GPA
+- Current 3.92 GPA
 - Received multiple academic scholarships
 - Participant in Data Science Society
-
-__Courses Completed__
-- Programming with functions
-- Intro to Programming
-- Data Science Programming
-- Applied Calculus for Data Analysis
-- Business Statistics
-- Intro to Business
-- Intro to Databases
-
-`2014-2018`
-__Champlin Park High School__, Champlin, MN
-
--  3.9 GPA
-- Participated in the National Honors Society
--  Graduated with Highest Honors
-
-
+- Relevant Courses: 
 
 ## Work Experience
 ***
-`April 2020 - July 2020`
-__Target Corporation__: Champlin, Minnesota
-_Overnight Stock Associate_
-- Maintained an organized inventory creating easy access for store employees
-- Replenished inventory on sales floor over an 8 hour shift in preparation for sales the next day.
-- Applied physical abilities to move large objects up to 50 pounds around location
+`January 2022 - Present`
+__BYU Idaho Career Center__ Rexburg, Idaho  
+_Data Analyst_
+- Analyzed and wrangled alumni data using Power BI and created a report which was used in a 
+yearly report by department supervisor 
+- Updated interactive internship dashboard using R and Shiny to ensure accuracy and usefulness 
+- Collected student resume data and performed a statistical analysis communicating insights and 
+actionable items to management
 
 
-`June 2018 - September 2018`
-__Centra Homes__: Anoka, Minnesota
-_Construction Worker_
-- Engaged in renovation of an apartment complex in preparation for new tenants over a period of 3 months
-- Demonstrated skills in repairing flooring and dry wall within 20 separate apartments 
-- Applied ability to use power tools to help fix heating systems in 10+ apartments
-- Showed ability to work with 10 other employees to meet company deadlines and goals
+`September 2022 - Present`
+__BYU Idaho Career Center__ Rexburg, Idaho  
+_Career Success Mentor_
+- Increased student satisfaction by carefully identifying and solving needs through instruction 
+- Collaborated with team of 5 other mentors daily to improve skills so students are prepared to 
+search for employment 
+- Guided students through a 4-step program in networking, interviewing, and resume building 
+increasing future employment opportunities
 
 ## Volunteer Experience
 ***
 `June 2019- June 2021`
-__The Church of Jesus Christ of Latter-Day Saints__: Accra, Ghana
+__The Church of Jesus Christ of Latter-Day Saints__ Accra, Ghana  
 _Full-Time Volunteer Representative_
--  Demonstrated abilities to work with youth, adults, foreign leaders, and others with diverse backgrounds while teaching selfimprovement in two different countries
--  Exercised ability to use social media to promote organization's message to local and international audiences on 3 different social media pages
-- Organized and participated in weekly service projects as well as other unplanned service opportunities
-- Lead trainings regularly for groups of up to 9 other volunteers
-- Studied religion daily for a period of 2 years, and showed high level of understanding
+- Improved the lives of many different individuals by teaching principles of self improvement 
+- Organized and led trainings for groups of 10+ volunteers to improve effectiveness and goal 
+setting 
+- Coordinated weekly community service activities to help different individuals in the surrounding 
+communities 
+- Designed and executed different lesson plans to fit the needs of hundreds of different people
 
 ## Skills
 ***
-- Proficient in Microsoft office
-- High level communication skills
--  Advanced knowledge and ability in mathematics
-- Proficient in Python, SQL, and R programming languages
-- Experience with data manipulation and visualization
-- Advanced outdoor and survival skills
+__Advanced__ | Python | Data Visualization | R | Power BI | MS Word | Data Analysis | MYSQL  
+__Competent__ | MS Excel | C# | Object-Oriented Programming | MS PowerPoint 
 <!-- ### Footer
 
 Last updated: April 2022 -->
