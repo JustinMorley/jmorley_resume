@@ -12,39 +12,25 @@ title: Justin Morley's Resume
 
 ## Education
 ---
-`2018- Expected 2023`  
+`December 2024`  
 __Brigham Young University-Idaho__, Rexburg, ID  
 Bachelor of Science, Data Science  
-- Current 3.8 GPA
-- Received multiple academic scholarships
-- Participant in Data Science Society
-
-`2014-2018`  
-__Champlin Park High School__, Champlin, MN  
-
--  3.9 GPA
-- Participated in the National Honors Society
--  Graduated with Highest Honors
-
+- Minor in Business Analytics
+- 4.0 Major GPA / 3.95 Overall
+- 4-time recipient of BYU-Idaho Academic Grant
+- Machine Learning Fundamentals Certificate
 
 
 ## Work Experience
 ***
-`April 2020 - July 2020`  
-__Target Corporation__: Champlin, Minnesota  
-_Overnight Stock Associate_
-- Maintained an organized inventory creating easy access for store employees
-- Replenished inventory on sales floor over an 8 hour shift in preparation for sales the next day.
-- Applied physical abilities to move large objects up to 50 pounds around location
+`June 2024- Present`  
+__ALLETE__: Duluth, Minnesota  
+_Data Analyst & Infrastructure Intern_
+-	Collaborated with a team of 5 other analysts in overseeing the organization of company data infrastructure and requested analysis
+-	Created python script using Pyspark and Microsoft Fabric which performed a reconciliation of the company data to ensure data quality, which has continued to be used to date
+-	Constructed a live dashboard in Power BI which displayed status of 20+ different company data tables, warning departments of any errors which arise
+-	Regularly write queries against SQL database to import and manipulate data for project use
 
-
-`June 2018 - September 2018`  
-__Centra Homes__: Anoka, Minnesota  
-_Construction Worker_
-- Engaged in renovation of an apartment complex in preparation for new tenants over a period of 3 months
-- Demonstrated skills in repairing flooring and dry wall within 20 separate apartments 
-- Applied ability to use power tools to help fix heating systems in 10+ apartments
-- Showed ability to work with 10 other employees to meet company deadlines and goals
 
 ## Volunteer Experience
 ***
